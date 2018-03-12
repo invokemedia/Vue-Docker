@@ -14,7 +14,7 @@ You will need Docker up & running on your machine. That's it!
 
 ```bash 
 $ git clone git@github.com:invokemedia/Vue-Docker.git
-$ cd Laravel-Docker
+$ cd Vue-Docker
 ```
 
 ### Install yarn dependencies
